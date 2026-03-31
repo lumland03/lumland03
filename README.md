@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Java Script and basic web design<br>
+<p align="left">✨ Skills <br> HTML <br> CSS <br> JS <br> Joy and Whimsy
 
 ###
