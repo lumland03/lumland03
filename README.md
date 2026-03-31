@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Skills <br> HTML <br> CSS <br> JS <br> Joy and Whimsy
+<p align="left">✨ Skills ✨ <br> <br> HTML <br> CSS <br> JS <br> Joy and Whimsy
 
 ###
