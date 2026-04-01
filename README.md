@@ -1,8 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey, I'm Landon!
 
 ###
 
-<p align="left">My name is Landon and I'm a Design Student from EWU</p>
+## I am a design student at EWU. Currently working on my BDES for Visual Communication Design. 
+
+
 
 ###
 
