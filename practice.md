@@ -50,11 +50,11 @@ Feel free to contribute and don't forget to star the repo!
 
 ## Important Notes
 
-[!NOTE]: 
-This is a note alert. Useful for highlighting important information.
+>[!NOTE]: 
+>This is a note alert. Useful for highlighting important information.
 
-[!TIP]:
- Pro tip: Use keyboard shortcuts to speed up your workflow!
+>[!TIP]:
+>Pro tip: Use keyboard shortcuts to speed up your workflow!
 
 ## Comparison Table
 
