@@ -46,6 +46,8 @@ You can also check out the [contributing guidelines](https://github.com/username
 
 We love open source! Let's build something amazing together!
 
+:heart_on_fire: :rocket: :sparkles: :tada:
+
 Feel free to contribute and don't forget to star the repo!
 
 ## Important Notes
