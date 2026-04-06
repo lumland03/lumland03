@@ -12,4 +12,4 @@ My skills include HTML, CSS, JS, having joy and whismy, and throwing stuff at th
 ###
 
 [Website](https://www.mothcentral.com) :butterfly:
-[LinkedIn](www.linkedin.com/in/landon-umland-239793393) :bar-chart:
+[LinkedIn](www.linkedin.com/in/landon-umland-239793393) :bar_chart:
