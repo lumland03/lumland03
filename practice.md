@@ -32,4 +32,4 @@ Emojis
 We :heart: open source! Let's build something amazing together! :rocket:
 
 Important Notes
-[!NOTE]: Markdown will not appear exactly the same on all browsers and platforms. 
+>[!NOTE]: Markdown will not appear exactly the same on all browsers and platforms. 
